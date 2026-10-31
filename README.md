@@ -31,7 +31,7 @@ El propósito principal es comprender cómo una aplicación frontend puede comun
 | Correo Electrónico | palaciosan46@gmail.com |
 | Asignatura | Desarrollo web 2 |
 | Tutor | Vladimir Mate |
-| Fecha de Entrega | 30/10/2026 |
+| Fecha de Entrega | 31/10/2026 |
 
 ---
 
